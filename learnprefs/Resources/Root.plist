@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>date settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>learntouchListController</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>learn</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>分割线</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>homoscreenhookController</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>AAA</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>DockControllerRootSettings</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>DockController</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>软件破解</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>appcrackController</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>软件破解</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>learn</string>
+</dict>
+</plist>
